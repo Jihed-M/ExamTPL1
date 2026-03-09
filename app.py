@@ -1,2 +1,2 @@
 </>Python
-print("Min :",min(data))
+print("Min  :",min(data))
